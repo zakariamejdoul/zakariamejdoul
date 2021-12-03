@@ -9,7 +9,7 @@
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
-**Talking about Personal Stuffs:**<br />
+**Talking about Personal Stuffs :**<br />
 - <samp>👨🏽‍💻  I’m currently working on computer vision project based on Brain Tumor Segmentation 🧠.
 - <samp>🌱  I’m currently Master's Degree Student at <a href="http://www.insea.ac.ma/">INSEA</a> of Rabat, Morocco. 
 - <samp>💬  Ask me about anything, I am happy to help.
@@ -32,7 +32,7 @@
 
 <br>
 
-**Languages and Tools**
+**Languages and Tools :**
 
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
