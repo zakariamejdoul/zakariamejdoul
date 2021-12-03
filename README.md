@@ -20,7 +20,7 @@
 
  <br>
 
-**📈 My Github stats**<br />
+**My Github stats 📈**<br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zakariamejdoul&theme=dark&show_icons=true" alt="shwetangStats" />  
   <br />
