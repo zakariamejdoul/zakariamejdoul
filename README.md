@@ -14,8 +14,6 @@
 - <samp>🌱  I’m currently Master's Degree Student at <a href="http://www.insea.ac.ma/">INSEA</a> of Rabat, Morocco. 
 - <samp>💬  Ask me about anything, I am happy to help.
 - <samp>📈  I'm Artificial Intelligence and Data Science Enthusiastic.
-- <samp>📫  How to reach me: zmejdoul@gmail.com or z.mejdoul@insea.ac.ma.
-
 ***
 
  <br>
